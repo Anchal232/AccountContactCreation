@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AccountManagerLbl</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AccountManagerLbl</shortDescription>
+        <value>You don&apos;t have permission to act on Account.</value>
+    </labels>
+    <labels>
+        <fullName>AccountSummaryRequiredLbl</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AccountSummaryRequiredLbl</shortDescription>
+        <value>Account Summary is Required</value>
+    </labels>
+    <labels>
+        <fullName>Github_username</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Github username</shortDescription>
+        <value>trailheadapps</value>
+    </labels>
+</CustomLabels>
